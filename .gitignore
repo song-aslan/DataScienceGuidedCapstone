@@ -137,3 +137,4 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 Notebooks/Copy-data_wrangling.ipynb
+Notebooks/Copy_03_exploratory_data_analysis.ipynb
